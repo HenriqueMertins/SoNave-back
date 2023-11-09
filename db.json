@@ -12,8 +12,8 @@
       "sinopse": "Meu desde 1999, 2º dono, comprei em Viçosa-MG do 1ºdono que o retirou 0 KM na extinta concessionaria GM Resolve de Niterói-RJ. Absolutamente impecável, 100% original de fábrica, s/ alterações, funciona absolutamente TUDO, sem comentários.",
       "id": 2,
       "destaque": true,
-      "soma": 20,
-      "num": 4
+      "soma": 23,
+      "num": 5
     },
     {
       "nome": "PUMA GTS",
@@ -27,8 +27,8 @@
       "sinopse": "Lindo Puma GTS, PLACA PRETA, baixa km, com potente motor bicarburador em ótimas condições, elegante capô verde, cintos verdes de três pontos com elevador automático. OBS: não é um fuca",
       "id": 3,
       "destaque": true,
-      "soma": 20,
-      "num": 5
+      "soma": 25,
+      "num": 6
     },
     {
       "nome": "MERCEDES-BENZ C 220",
@@ -57,8 +57,8 @@
       "sinopse": "O carro é impecável, digno colecionador, está com toda a documentação original (manual, nota, panfleto e etc), pneu é original do carro, todo revisado, 100% funcional.",
       "id": 5,
       "destaque": true,
-      "soma": 20,
-      "num": 6
+      "soma": 33,
+      "num": 9
     },
     {
       "km": "143.600 km",
@@ -72,8 +72,8 @@
       "capa": "https://image.webmotors.com.br/_fotos/anunciousados/gigante/2022/202208/20220811/fiat-marea-2.0-mpi-20v-turbo-gasolina-4p-manual-wmimagem12125063418.jpg?s=fill&w=552&h=414&q=60",
       "sinopse": "Marea Preto, unico dono, dono caprichoso, esse aqui não aquece, repito Não AQUECE",
       "id": 6,
-      "soma": 28,
-      "num": 10
+      "soma": 19,
+      "num": 4
     },
     {
       "nome": "VOLKSWAGEN FUSCA",
@@ -162,8 +162,8 @@
       "sinopse": "Descubra a versatilidade e confiabilidade da Volkswagen Kombi 1.4 MI Std Lotacao Flex Manual! Com capacidade de lotação ampla, este veículo é perfeito para transporte de passageiros ou carga",
       "id": 12,
       "destaque": true,
-      "soma": 25,
-      "num": 6
+      "soma": 28,
+      "num": 7
     }
   ],
   "clientes": [
@@ -178,6 +178,72 @@
       "nome": "Pedro Costa",
       "email": "pedro@gmail.com",
       "senha": "pedro123"
+    }
+  ],
+  "avaliacoes": [
+    {
+      "estrelas": "5",
+      "comentario": "teste de estrela",
+      "cliente_id": 1,
+      "filme_id": 6,
+      "data": "2023-10-31T01:19:40.311Z",
+      "id": 1
+    },
+    {
+      "estrelas": "4",
+      "comentario": "mais uma",
+      "cliente_id": 1,
+      "filme_id": 6,
+      "data": "2023-10-31T01:20:15.798Z",
+      "id": 2
+    },
+    {
+      "estrelas": "5",
+      "comentario": "aa",
+      "cliente_id": 1,
+      "filme_id": 6,
+      "data": "2023-10-31T01:20:32.599Z",
+      "id": 3
+    },
+    {
+      "estrelas": "4",
+      "comentario": "comentario",
+      "cliente_id": 1,
+      "filme_id": 2,
+      "data": "2023-11-09T14:23:29.236Z",
+      "id": 4
+    },
+    {
+      "estrelas": 3,
+      "comentario": "",
+      "cliente_id": 1,
+      "filme_id": 2,
+      "data": "2023-11-09T14:23:37.386Z",
+      "id": 5
+    },
+    {
+      "estrelas": 3,
+      "comentario": "aa",
+      "cliente_id": 1,
+      "filme_id": 5,
+      "data": "2023-11-09T22:19:10.877Z",
+      "id": 6
+    },
+    {
+      "estrelas": "5",
+      "comentario": "monzaaa",
+      "cliente_id": 1,
+      "filme_id": 5,
+      "data": "2023-11-09T22:19:30.430Z",
+      "id": 7
+    },
+    {
+      "estrelas": "5",
+      "comentario": "mareaaa",
+      "cliente_id": 2,
+      "filme_id": 6,
+      "data": "2023-11-09T22:19:57.604Z",
+      "id": 8
     }
   ]
 }
